@@ -1,0 +1,3 @@
+# Making-the-data-Visible
+
+Basically at this repository, you gonna see some ways on how to make the data visible, byt some plots...
